@@ -1,4 +1,4 @@
 1. hello git is truly hard
 2. realllllly frustrating
-3. now is 2 am and i am doing this shit
+3. now is 2 am and i am doing this thing
 4. git log is the function that can review history of commit
